@@ -8,15 +8,16 @@
     <Authors>NeoSmart Technologies, Mahmoud Al-Qudsi</Authors>
     <Company>NeoSmart Technologies</Company>
     <Product>Stream.CopyTo</Product>
-    <Description>A Stream.CopyTo implementation for .NET 2.0, .NET 3.0, and .NET 3.5. Just install and use.</Description>
+    <Description>A Stream.CopyTo implementation for .NET 2.0, .NET 3.0, and .NET 3.5. Just install and use normally, no references required.</Description>
     <Copyright>Copyright NeoSmart Technologies 2017</Copyright>
     <PackageLicenseUrl>https://cdn.rawgit.com/neosmart/Stream.CopyTo/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/neosmart/Stream.CopyTo</PackageProjectUrl>
     <RepositoryUrl>https://github.com/neosmart/Stream.CopyTo</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>stream, copyto, stream.copyto, extension method</PackageTags>
-    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageIconUrl>https://cdn.rawgit.com/neosmart/Stream.CopyTo/master/icon.png</PackageIconUrl>
   </PropertyGroup>
 
 </Project>
