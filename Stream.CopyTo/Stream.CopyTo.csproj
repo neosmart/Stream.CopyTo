@@ -1,7 +1,22 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <TargetFrameworks>net20;netstandard1.0</TargetFrameworks>
+    <AssemblyName>NeoSmart.Stream.CopyTo</AssemblyName>
+    <RootNamespace>System.IO</RootNamespace>
+    <PackageId>Stream.CopyTo</PackageId>
+    <Authors>NeoSmart Technologies, Mahmoud Al-Qudsi</Authors>
+    <Company>NeoSmart Technologies</Company>
+    <Product>Stream.CopyTo</Product>
+    <Description>A Stream.CopyTo implementation for .NET 2.0, .NET 3.0, and .NET 3.5. Just install and use.</Description>
+    <Copyright>Copyright NeoSmart Technologies 2017</Copyright>
+    <PackageLicenseUrl>https://cdn.rawgit.com/neosmart/Stream.CopyTo/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/neosmart/Stream.CopyTo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/neosmart/Stream.CopyTo</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>stream, copyto, stream.copyto, extension method</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
